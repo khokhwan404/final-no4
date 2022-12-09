@@ -1,0 +1,15 @@
+/Users/khim/Desktop/final/no444/obj/Debug/net6.0/no444.csproj.AssemblyReference.cache
+/Users/khim/Desktop/final/no444/obj/Debug/net6.0/no444.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khim/Desktop/final/no444/obj/Debug/net6.0/no444.AssemblyInfoInputs.cache
+/Users/khim/Desktop/final/no444/obj/Debug/net6.0/no444.AssemblyInfo.cs
+/Users/khim/Desktop/final/no444/obj/Debug/net6.0/no444.csproj.CoreCompileInputs.cache
+/Users/khim/Desktop/final/no444/bin/Debug/net6.0/no444
+/Users/khim/Desktop/final/no444/bin/Debug/net6.0/no444.deps.json
+/Users/khim/Desktop/final/no444/bin/Debug/net6.0/no444.runtimeconfig.json
+/Users/khim/Desktop/final/no444/bin/Debug/net6.0/no444.dll
+/Users/khim/Desktop/final/no444/bin/Debug/net6.0/no444.pdb
+/Users/khim/Desktop/final/no444/obj/Debug/net6.0/no444.dll
+/Users/khim/Desktop/final/no444/obj/Debug/net6.0/refint/no444.dll
+/Users/khim/Desktop/final/no444/obj/Debug/net6.0/no444.pdb
+/Users/khim/Desktop/final/no444/obj/Debug/net6.0/no444.genruntimeconfig.cache
+/Users/khim/Desktop/final/no444/obj/Debug/net6.0/ref/no444.dll
